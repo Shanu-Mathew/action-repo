@@ -1,4 +1,4 @@
-vb vb vb# action-repo
+# action-repo
 
 
 Success Trial
