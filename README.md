@@ -1,18 +1,3 @@
 # action-repo
 
-Hello
-
-There
-Trial 1
-Trial 2
-Trial 3
-Trial 4
-Trial 5
-Trial 6
-Trial 7
-Trial 8
-Last Trial
-Final trial
-Trial
-Trial
-Trial
+Project Complete
